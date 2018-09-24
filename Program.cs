@@ -7,6 +7,7 @@ namespace Project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-        }
+            Console.WriteLine("Using VIM to code .NET")
+	}
     }
 }
